@@ -30,4 +30,4 @@ I am a final-year Digital Development student based in Tangier, Morocco, passion
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-45d240.gitlab.io/)
 
 ---
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=amezianeomar&show_icons=true&theme=dark)
+![Omar's GitHub Streak](https://streak-stats.demolab.com?user=amezianeomar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
